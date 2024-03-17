@@ -84,6 +84,8 @@ if( _isreverse == 1 && gir==6){
 }else{ 
 
 //please calibrate with your own values by using "xyvals()"
+//uncomment bellow, check the x and y outputs for each gear position, and assign the correct values that work for you.
+//this may need some trial and error, however it will work (i pinky promise ;D)
 //xyvals(x,y);
 
 //x == 800 middle
