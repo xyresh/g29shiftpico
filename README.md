@@ -19,3 +19,4 @@ the pin configuration doesn't matter but in order to make this build as seamless
 | 34/GP28   | 8       |
 
 please note that it may not index the gears correctly for your specific shifter, if so calibrate your X,Y values using the serial monitor in the arduino IDE.
+see comment on line 86 for further information.
