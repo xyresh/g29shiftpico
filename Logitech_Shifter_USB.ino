@@ -3,7 +3,7 @@
  * 
  * Author Mrayo
  * 
- * this code comes as is ,and i am not to be held liable for any malfunctions of your hardware,software etc.
+ * this code along with any binaries come as is ,and i am not to be held liable for any malfunctions of your hardware,software etc.
  * this code can be used for any purpose and can be freely modified, redistributed under any license.
  */
 
