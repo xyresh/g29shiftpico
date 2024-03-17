@@ -5,7 +5,7 @@ this depends on the joystick library:
 https://github.com/MHeironimus/ArduinoJoystickLibrary
 
 there are many adapters using arduino nano and such, however this is a much cheaper solution.
-you can compile this for the pi pico using the arduino IDE or grab a already compiled uf2 firmware and drag and drop on yout pi pico
+you can compile this for the pi pico using the arduino IDE or grab an already compiled uf2 firmware and drag and drop on to your pi pico
 
 the pin configuration doesn't matter but in order to make this build as seamless as possible you can use this config:
 
